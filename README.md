@@ -14,7 +14,7 @@ Components used
 Schematic diagram
 -----------------
 
-[Schematic diagram](schema.png)
+![Schematic diagram](schema.png)
 
 Device presentation
 -------------------
