@@ -1,6 +1,6 @@
 # Pump controller for the wells
 
-The [main.ino] file contains the source code for the well pump controller. The controller cyclically switches the pumps in periods of 1, 7 or 28 days. As a result, the water is mixed with two wells and does not rottenness.
+The [main.ino](main.ino) file contains the source code for the well pump controller. The controller cyclically switches the pumps in periods of 1, 7 or 28 days. As a result, the water is mixed with two wells and does not rottenness.
 
 Components used
 ---------------
