@@ -19,4 +19,4 @@ Schematic diagram
 Device presentation
 -------------------
 
-![Presentation](https://youtu.be/mslES55ITuQ)
+[![Presentation](https://img.youtube.com/vi/mslES55ITuQ/0.jpg)](https://youtu.be/mslES55ITuQ)
