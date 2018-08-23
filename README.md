@@ -20,3 +20,8 @@ Device presentation
 -------------------
 
 [![Presentation](https://img.youtube.com/vi/mslES55ITuQ/0.jpg)](https://youtu.be/mslES55ITuQ)
+
+Usage
+-----
+
+Controller has one switch. A single short press switches the pumps - off, first pump, second pump, off, ... A single long press changes the pump switching interval - 1 day, 7 days, 28 days.
